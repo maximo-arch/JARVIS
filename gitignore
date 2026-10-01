@@ -1,0 +1,6 @@
+.env
+.venv/
+.stt-venv/
+__pycache__/
+*.pyc
+bridge.log
